@@ -1,0 +1,1 @@
+#se trata sobre mi, de las cosas que me gustan, los recursos que use son la h1, h2, h3, h4, h5, h6, p, ul, ol, tr, th, td, foother, img
